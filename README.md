@@ -1,6 +1,9 @@
 ﻿# bitmap-fonts-extra
 **THIS IS A FORK OF THE ORIGINAL**
 
+**NOT ALL FONTS HAVE BEEN TESTED TO WORK IN THEIR NEW FORMATS**
+	
+	
 A collection of monospaced bitmap fonts for X11, good for terminal use.
 These fonts were not created by me, the authors are listed below. (Some links don't seem to work anymore)
 Some of these fonts may be out of date.
