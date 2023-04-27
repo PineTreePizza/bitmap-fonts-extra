@@ -1,4 +1,4 @@
-﻿# bitmap-fonts-otb
+﻿# bitmap-fonts-extra
 **THIS IS A FORK OF THE ORIGINAL**
 
 A collection of monospaced bitmap fonts for X11, good for terminal use.
@@ -10,7 +10,7 @@ the font, or take a look at the creators website listed below.
 This repo is an attempt to catalog all existing bdf/pcf fonts.
 
 Please submit a pull request if there are any bdf/pcf fonts that you want added. Any bdf/pcf fonts will be accepted.
-If anyone does submit any bdf/pcf fonts as pull requests I will do my best to include them in the project and conver them to otb, you can also submit otb fonts to the project.
+If anyone does submit any bdf/pcf fonts as pull requests I will do my best to include them in the project and convert them to otb/ttf, you can also submit otb/ttf fonts to the project.
 
 I have no idea about the license of these fonts, so use with caution.
 Some of these have git repositories they might have something on liscense.
