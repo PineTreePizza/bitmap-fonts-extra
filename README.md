@@ -20,8 +20,8 @@ Some of these have git repositories they might have something on liscense.
 
 ## Installation:
 ```
-git clone https://github.com/Tecate/bitmap-fonts.git
-cd bitmap-fonts
+git clone https://github.com/PineTreePizza/bitmap-fonts-extra.git
+cd bitmap-fonts-extra
 sudo cp -avr bitmap/ /usr/share/fonts
 xset fp+ /usr/share/fonts/bitmap
 fc-cache -fv
